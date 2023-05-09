@@ -13,7 +13,7 @@
 ## General Information
 Build a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution that can evaluate images and alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
 
--> Dataset - https://drive.google.com/file/d/1xLfSQUGDl8ezNNbUkpuHOYvSpTyxVhCs/view
+> Dataset - https://drive.google.com/file/d/1xLfSQUGDl8ezNNbUkpuHOYvSpTyxVhCs/view
 
 ## Technologies Used
 - Google Collab + jupyter Notebook
@@ -36,4 +36,4 @@ Give credit here.
 
 
 ## Contact
-Created by Kanchan Singh @kanchansingh1123 - feel free to contact me!
+Created by [[@kanchansingh1123](https://github.com/kanchansingh1123)] - feel free to contact!
